@@ -28,7 +28,7 @@ const MobileNav = ({closeNav,showNav}:Prop) => {
         <Link href= "#" className="relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 hover:after:w-full">About</Link>
       </li>
       <li className='navlink text-[25px] sm:text-[30px]'>
-        {/* <Link href= "#" className="relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 hover:after:w-full">Resources</Link> */}
+        <Link href= "#" className="relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 hover:after:w-full">Resources</Link>
       </li>
       <li className='navlink text-[25px] sm:text-[30px]'>
         <Link href= "#" className="relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 hover:after:w-full">Blog</Link>
